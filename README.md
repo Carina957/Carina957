@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Alva. 😜
+
+- 🔭 I’m currently working on Beijing. ⌨
+
+- 🎞 I like listening to music and watching movies. 🎧
+
+- 🎇 Like to make new friends. ✨
+
+- 🎠 My tech stack is Vue JavaScript and TypeScript. 🎡
+
+- 💬 Be free to ask me about anything [here](https://www.baidu.com/). 🕶
+
+[![Alva's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
