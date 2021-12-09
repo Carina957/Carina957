@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Carina957/Carina957** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Alva. 😜
+### Hi there 👋, I'm Alva. 😜
 
 - 🔭 I’m currently working on Beijing. ⌨
 
