@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 #### 🎉 In the end, I wish you a salary of **20K** 🎉🎉🎉
 
 <!-- [![Alva's github stats](https://github-readme-stats.vercel.app/api?username=Carina957)](https://github.com/Carina957/github-readme-stats) -->
-![logo](https://img-blog.csdnimg.cn/img_convert/25872bc833a652abad37509dc1cc4514.png 'Github')
+
+<!-- ![logo](https://img-blog.csdnimg.cn/img_convert/25872bc833a652abad37509dc1cc4514.png 'Github') -->
+<img src="https://img-blog.csdnimg.cn/img_convert/25872bc833a652abad37509dc1cc4514.png" alt="Logo" align="right">
 
 <details><summary><b>Show instructions</b></summary>
 
