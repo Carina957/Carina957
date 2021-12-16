@@ -91,4 +91,4 @@ Here are some ideas to get you started:
 <!-- ![logo](https://img-blog.csdnimg.cn/img_convert/25872bc833a652abad37509dc1cc4514.png 'Github') -->
 
 <!-- <img src="https://img-blog.csdnimg.cn/img_convert/25872bc833a652abad37509dc1cc4514.png" alt="Logo" width="100%" align="right"> -->
-<img src="https://vvbin.cn/next/assets/illustration.8e82152d.svg" alt="Logo" width="100%" align="right">
+<img src="https://vvbin.cn/next/assets/illustration.8e82152d.svg" alt="Logo" width="450" align="right">
