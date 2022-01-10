@@ -82,8 +82,22 @@ Here are some ideas to get you started:
       }
     ```
 
-6. If you don’t have a continuous integration service running, don’t forget
-   to add one — start with [Travis CI].
+
+
+6. Git order
+    
+    - Git modify user name mailbox
+    
+    ``` sh
+    $ git config --global user.name "name"
+    $ git config --global user.email "email"
+    ```
+    
+    - Git view global configuration
+    
+    ``` sh
+    $ git config --global --list
+    ```
 
 </details>
 
