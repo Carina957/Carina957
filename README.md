@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🎠 My tech stack is Vue JavaScript and TypeScript. 🎡
 
-- 💬 Be free to ask me about anything [here](https://www.baidu.com/). 🕶
+- 💬 Be free to ask me about anything [here](https://www.google.com/). 🕶
 
 #### 🎉 In the end, I wish you a salary of **20K** 🎉🎉🎉
 
