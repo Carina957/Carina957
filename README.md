@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Alva. 😜
+### Hi there 👋, I'm Carina. 😜
 
-- 🔭 I’m currently working on Beijing. ⌨
+- 🔭 I’m currently working on Hangzhou. ⌨
 
 - 🎞 I like listening to music and watching movies. 🎧
 
