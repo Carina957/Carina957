@@ -8,9 +8,9 @@
 
 - 🎠 My tech stack is Vue JavaScript and TypeScript. 🎡
 
-- 💬 Be free to ask me about anything [here](https://www.google.com/). 🕶
+- 💬 Be free to ask me about anything [here](https://www.google.com). 🕶
 
-- 🎉 In the end, I wish you a salary of **20K** 🎉🎉🎉
+- 🎉 In the end, I wish you can get a well paid job. 🎉🎉🎉
 
 #### 技术栈/开发工具
 
