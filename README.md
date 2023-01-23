@@ -20,7 +20,7 @@
 <code><img src="./assets/svgs/typescript.svg" height="25"></code>
 <code><img src="./assets/svgs/vscode.svg" height="25"></code>
 
-<!-- [![Carina's github](https://github-readme-stats.vercel.app/api?username=Carina957)](https://github.com/Carina957) -->
+[![Carina's github](https://github-readme-stats.vercel.app/api?username=Carina957)](https://github.com/Carina957)
 
 <!-- <details>
 <summary><b>Show instructions</b></summary>
