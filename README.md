@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Carina. 😜
+### Hi there 👋, I'm Chi's. 😜
 
 - 🔭 I’m currently working on Hangzhou. ⌨
 
