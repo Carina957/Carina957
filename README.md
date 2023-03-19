@@ -1,3 +1,7 @@
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hasklug+Nerd+Font+Mono&pause=1000&color=80A6F7&center=true&width=1250&height=100&lines=Chi's+Github;Hope+you+are+happy!)](https://git.io/typing-svg)
+
 ### Hi there 👋, I'm Chi's. 😜
 
 - 🔭 I’m currently working on Hangzhou. ⌨
@@ -21,9 +25,5 @@
 <code><img src="./assets/svgs/vscode.svg" height="25"></code>
 
 [![Carina's github](https://github-readme-stats.vercel.app/api?username=Carina957&show_icons=true&theme=vue)](https://github.com/Carina957)
-
-<!-- <details>
-<summary><b>Show instructions</b></summary>
-</details> -->
 
 <img src="./assets/svgs/illustration.svg" alt="Logo" width="450" align="right">
