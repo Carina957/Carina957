@@ -1,5 +1,7 @@
 <br>
+
 <!-- Hasklug+Nerd+Font+Mono -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=80A6F7&center=true&width=1250&height=100&lines=Chi's+Github;Hope+you+are+happy!)](https://git.io/typing-svg)
 
 ### Hi there 👋, I'm Chi's. 😜
