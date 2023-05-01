@@ -16,7 +16,7 @@
 
 - 💬 Be free to ask me about anything [here](https://www.google.com). 🕶
 
-- 🎉 In the end, I wish you can get a well paid job. 🎉🎉🎉
+- 🎉 In the end, I wish you can get a well paid job. 🎉
 
 #### 技术栈/开发工具
 
