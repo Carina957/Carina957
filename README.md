@@ -28,6 +28,6 @@
 
 [![Carina's github](https://github-readme-stats.vercel.app/api?username=Carina957&show_icons=true&theme=vue)](https://github.com/Carina957)
 
-<img src="https://moe-counter.glitch.me/get/@:chis" alt=":chis" align="left" />
+<img src="https://moe-counter.glitch.me/get/@:chis" alt=":chis" width="240" align="left" />
 
-<img src="./assets/svgs/illustration.svg" alt="Logo" width="240" align="right">
+<img src="./assets/svgs/illustration.svg" alt="logo" width="240" align="right" />
