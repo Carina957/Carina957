@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&duration=3000&pause=1000&width=435&lines=Freedom;Paranoid;For+loneliness)](https://git.io/typing-svg)
 
-
 <!-- IMAGES -->
 <!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" /> -->
 <!-- <code><img src="./assets/svgs/vue.svg" height="25"></code>
