@@ -6,6 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&duration=3000&pause=1000&width=435&lines=Freedom;Paranoid;For+loneliness)](https://git.io/typing-svg)
 
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/124289531/latest-rides/8e3a67eb99bf1647d83a2caa4cdc266fc1015826'></iframe>
+
 <!-- Basemap -->
 <!--
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer" />
