@@ -27,6 +27,6 @@ Besides being a programmer, I am also a cycling enthusiast.
 <code><a href='https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/What_is_JavaScript' target='_blank'><img src="./assets/svgs/javascript.svg" height="30"></a></code>
 <code><a href='https://code.visualstudio.com' target='_blank'><img src="./assets/svgs/vscode.svg" height="30"></a></code>
 <code><a href='https://strava.com/athletes/124289531' target='_blank'><img src="./assets/svgs/strava.png" height="30"></a></code>
-<code><a href='https://nodejs.org' target='_blank'><img src="./assets/svg/nodejs.svg" height="30"></a></code>
+<code><a href='https://nodejs.org' target='_blank'><img src="./assets/svgs/nodejs.svg" height="30"></a></code>
 
 <img src="https://moe-counter.glitch.me/get/@:chis" alt=":chis" />
